@@ -19,5 +19,7 @@ class Particle {
     fill(random(255));
     ellipse(position.x, position.y, 10, 10);
     
+    
+    
   }
 }
